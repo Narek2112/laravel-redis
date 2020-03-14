@@ -5,7 +5,7 @@ Laravel with redis and socket.io
 $ composer install
 $ npm install
 ```
-#Run
+# Run
 ```bash
 $ laravel-echo-server start
 $ php artisan queue:listen
